@@ -28,9 +28,9 @@ std::cout << "Hello World!" << std::endl;
 </script>
 ```
 
-<script src=""></script>
+<script src="https://github.com/ZanderCode/test/blob/main/test.js"></script>
 
-<button onclick="example()"></button>
+<button onclick="example()">asdasdasd</button>
 
 - asd 
 - asdasd
